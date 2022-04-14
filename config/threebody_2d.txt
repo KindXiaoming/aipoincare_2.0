@@ -1,0 +1,18 @@
+# config file for Three Body Problem
+
+env = threebody_2d
+data = data_samples/threebody_2d.csv
+z_dim = 12
+
+seed = 42
+
+train = True 
+epochs = 5
+learning_rate = 1e-3
+batch_size = 128
+max_loss_divergence = 10
+es_delta = 1e-5
+G = 1.0
+m1 = 1.0
+m2 = 1.0
+m3 = 1.0

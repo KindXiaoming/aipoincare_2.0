@@ -1,0 +1,14 @@
+# config file for 2D Kepler Problem
+
+env = kepler_2d
+data = data_samples/kepler_2d.csv
+z_dim = 4
+
+seed = 42
+
+train = True 
+epochs = 200
+learning_rate = 1e-4
+batch_size = 128
+max_loss_divergence = 1000
+es_delta = 1e-4

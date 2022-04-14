@@ -1,0 +1,15 @@
+# config file for Damped 1D Harmoic Oscillator
+
+env = harmonic_1d_damp
+data = data_samples/harmonic_1d_damp.csv
+z_dim = 2
+
+seed = 42
+
+train = True 
+epochs = 1000
+learning_rate = 1e-4
+batch_size = 128
+max_loss_divergence = 10
+es_delta = 1e-5
+damping_factor = 0.5

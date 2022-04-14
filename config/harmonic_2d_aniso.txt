@@ -1,0 +1,15 @@
+# config file for Anisotropic Harmoic Oscillator
+
+env = harmonic_2d_aniso
+data = data_samples/harmonic_2d_aniso.csv
+z_dim = 4
+
+seed = 42
+
+train = True 
+epochs = 200
+learning_rate = 1e-3
+batch_size = 128
+max_loss_divergence = 10
+es_delta = 1e-5
+k = 4

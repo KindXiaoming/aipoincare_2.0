@@ -1,0 +1,30 @@
+cb*da*- 0.000000 1. Angular momentum
+cQaQeQ-+ 0.000000 2. x^2 + y^2 = r^2 constraint
+eecQaQ+/* 0.000000 2
+dQbQeIO-+ 0.000000 3. energy
+cQaQe~Q-+ 0.000000 2
+dQeIObQ-- 0.000000 3
+aQeQ>cQ-- 0.000000 2
+bQeIOdQ-- 0.000000 3
+eQcQ~aQ+/ 0.000000 2
+dQeIO-bQ+ 0.000000 3
+aQeQ>-cQ+ 0.000000 2
+bQeIO-dQ+ 0.000000 3
+eQcQ>-aQ- 0.000000 2
+c~b~*da*- 0.000000 1
+eQaQ-cc*- 0.000000 2
+c~b~*ad*- 0.000000 1
+cQaQ+ee*- 0.000000 2
+dQbQ+eIO- 0.000000 3
+eQcQ-a~Q- 0.000000 2
+c~b*da~*- 0.000000 1
+cQ>aQeQ-+ 0.000000 2
+eIOdQbQ+- 0.000000 3
+eQ>aQcQ+- 0.000000 2
+eIObQdQ+- 0.000000 3
+cQ>eQaQ-- 0.000000 2
+eIOdQ-bQ- 0.000000 3
+eQ>aQ-cQ- 0.000000 2
+eIObQ-dQ- 0.000000 3
+cQ>aQ+eQ- 0.000000 2
+c<>b*da*- 0.000000 1

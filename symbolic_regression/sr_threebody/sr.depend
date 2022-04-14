@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1643231113 source:/home/luke/Desktop/ai_poincare_2.0-master/symbolic_regression/sr/main.cpp
+	<string.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<tuple>
+	<fstream>
+	<typeinfo>
+	<math.h>
+	<random>
+
+1643517690 source:/home/luke/Desktop/ai_poincare_2.0-master/symbolic_regression/sr_threebody/main.cpp
+	<string.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<tuple>
+	<fstream>
+	<typeinfo>
+	<math.h>
+	<random>
+

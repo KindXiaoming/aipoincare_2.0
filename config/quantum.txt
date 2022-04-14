@@ -1,0 +1,14 @@
+# config file for nonlinear Schrodinger equation
+
+env = quantum
+data = data_samples/quantum.csv
+z_dim = 2
+
+seed = 42
+
+train = True 
+epochs = 10
+learning_rate = 1e-4
+batch_size = 32
+max_loss_divergence = 1000
+es_delta = 1e-5

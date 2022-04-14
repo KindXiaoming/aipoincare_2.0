@@ -1,0 +1,14 @@
+# config file for Burgers Equation
+
+env = KdV_1d
+data = data_samples/KdV_1d.csv
+z_dim = 2  # number of features (psi,psi_x,psi_xx,psi_xxx,...)
+
+seed = 42
+
+train = True 
+epochs = 5
+learning_rate = 3e-5
+batch_size = 32
+max_loss_divergence = 10
+es_delta = 1e-5

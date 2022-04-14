@@ -1,0 +1,14 @@
+# config file for Isotropic Harmoic Oscillator
+
+env = harmonic_2d_iso
+data = data_samples/harmonic_2d_iso.csv
+z_dim = 4
+
+seed = 42
+
+train = True 
+epochs = 20
+learning_rate = 3e-4
+batch_size = 128
+max_loss_divergence = 1
+es_delta = 1e-5
